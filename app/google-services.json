@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687574316360",
+    "project_id": "sendypick-clean-architecture",
+    "storage_bucket": "sendypick-clean-architecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687574316360:android:4a923b53516de92956af7d",
+        "android_client_info": {
+          "package_name": "com.kontick.sendypick_cleanarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687574316360-3kdrpai28husrc7cs66sdgkng9ilg4nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKVF2klShEapFxp2AxNMQS1FX9fJGZnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687574316360-3kdrpai28husrc7cs66sdgkng9ilg4nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
