@@ -1,14 +1,17 @@
 package com.kontick.sendypick_cleanarchitecture.di
 
-import com.kontick.sendypick_cleanarchitecture.presentation.login.LoginViewModel
+
+import com.kontick.sendypick_cleanarchitecture.presentation.start.StartViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 
+
+
 val appModule = module {
 
-    viewModel<LoginViewModel>{
-        LoginViewModel(
-            //put use cases
+    viewModel<StartViewModel> {
+        StartViewModel(
+            authInteractor = get()
         )
     }
 

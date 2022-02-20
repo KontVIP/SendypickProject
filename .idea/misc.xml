@@ -3,7 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/drawable/arrow.xml" value="0.2385" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/drawable/splashscreen.xml" value="0.1825" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/activity_auth.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/activity_join_create.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/fragment_create.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/fragment_join.xml" value="0.18802083333333333" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/fragment_join_or_create.xml" value="0.17395833333333333" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/fragment_login_tab.xml" value="0.17395833333333333" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/fragment_signup_tab.xml" value="0.18802083333333333" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/main_widget.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/layout/test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Sendypickcleanarchitecture/app/src/main/res/menu/drawer_menu.xml" value="0.35260416666666666" />
       </map>
     </option>
   </component>
