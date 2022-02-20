@@ -8,6 +8,8 @@ Language: Kotlin
 
 Database: Firebase, Room
 
-Libraries: Koin, Billing library, Picasso
+Libraries: Koin, Billing library, Picasso, Mockito
 
-Pattern: MVVM
+Patterns: MVVM, DataMappers
+
+Others: Coroutines, JUnit5
