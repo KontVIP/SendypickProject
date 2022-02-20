@@ -10,6 +10,6 @@ Database: Firebase, Room
 
 Libraries: Koin, Billing library, Picasso, Mockito
 
-Patterns: MVVM, DataMappers
+Patterns: MVVM, Data Mapper
 
 Others: Coroutines, JUnit5
